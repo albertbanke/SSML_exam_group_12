@@ -1,0 +1,12 @@
+folium
+matplotlib
+mapclassify
+mplleaflet==0.0.5
+bokeh==3.1.0
+pip
+mgwr==2.1.2
+statsmodels==0.13.5
+xlrd
+openpyxl
+pysal
+mgwr
