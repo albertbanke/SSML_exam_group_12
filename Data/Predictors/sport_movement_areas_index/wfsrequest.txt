@@ -1,0 +1,1 @@
+https://data.rivm.nl/geo/alo/wfs?request=GetFeature&service=WFS&version=1.1.0&outputFormat=SHAPE-ZIP&typeName=alo:mulier_20210901_kbo_gemeente
